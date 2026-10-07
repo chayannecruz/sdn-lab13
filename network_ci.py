@@ -1,4 +1,4 @@
-mport sys
+import sys
 from mininet.net import Mininet
 from mininet.node import OVSBridge
 from mininet.topo import Topo
